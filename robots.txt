@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://spinia.partnersplayamo.net/sitemap.xml
